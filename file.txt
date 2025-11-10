@@ -1,4 +1,4 @@
 Hello!
 This is my new file in Demorepository.
 It is named as file.txt.
-
+now fetch .
